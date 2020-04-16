@@ -6,6 +6,8 @@ We will focus on creating a new project with React Native and to reduce the comp
 
 This workshop is a mixture of hands on exercises and taught mini sessions to introduce the concepts behind building quality mobile UI's with React Native.
 
+All progress to the app will be kept [here](https://github.com/effaamponsah/Turntabl-React-Native-Course). So feel free to check it out and fork it to have your personal copy of it.
+
 
 ## Setting up development environment
 Please install the following programs or dependencies to ensure a smooth usage with React Native
