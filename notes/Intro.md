@@ -9,3 +9,6 @@ At the end of this module, developers will be able to understand some techniques
  - Spread operator
  - Classes
  - Modules
+
+
+To connect to your physical device you can use *Vysor* get it here[Vysor](https://www.vysor.io/download/)
