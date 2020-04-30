@@ -8,33 +8,33 @@ This workshop is a mixture of hands on exercises and taught mini sessions to int
 
 All progress to the app will be kept [here](https://github.com/effaamponsah/Turntabl-React-Native-Course). So feel free to check it out and fork it to have your personal copy of it.
 
-
 ## Setting up development environment
+
 Please install the following programs or dependencies to ensure a smooth usage with React Native
 
- - [Node.js](https://nodejs.org/en/download)
- - [Expo cli](https://docs.expo.io/versions/latest/)
- - Exp mobile application. Get this from your playstores(if you prefer to use a physical device)
-
+- [Node.js](https://nodejs.org/en/download)
+- [Expo cli](https://docs.expo.io/versions/latest/)
+- Exp mobile application. Get this from your playstores(if you prefer to use a physical device)
 
 ## Timeline
-| Modules                                               | Notes             |
-| -------------                                         |:-------------:    |
-| Intro to modern javascript for react developers       | [Notes](notes/Intro.md) |
-| Intro to React                                        | [Notes](notes/React-basics.md)      | 
-| Essential  react native                               | [Notes](notes/React-basics.md)      | 
-| Navigation in react-native                            |       | 
-| State management with mobx                            |       | 
-| Testing                                               |       | 
-| Interacting with RESTful services                     |       |
-| Putting it all together                               |       |
 
-
+| Modules                                         |             Notes              |
+| ----------------------------------------------- | :----------------------------: |
+| Intro to modern javascript for react developers |    [Notes](notes/Intro.md)     |
+| Intro to React                                  | [Notes](notes/React-basics.md) |
+| Essential react native                          | [Notes](notes/React-basics.md) |
+| Navigation in react-native                      |  [Notes](notes/Navigation.md)  |
+| State management with mobx                      |                                |
+| Testing                                         |                                |
+| Interacting with RESTful services               |                                |
+| Putting it all together                         |                                |
 
 ## Feedbacks and Suggestions
+
 Feedbacks will be highly appreciated. Kindly drop either of the instructors an email
 
 ### Instructors
- - [Dennis Effa Amponsah](mailto:dennis.effa@turntabl.io)
 
- - [Isaac Agyen](mailto:isaac.agyen@turntabl.io)
+- [Dennis Effa Amponsah](mailto:dennis.effa@turntabl.io)
+
+- [Isaac Agyen](mailto:isaac.agyen@turntabl.io)
