@@ -1,4 +1,4 @@
-### Nvigation in react native
+### Navigation in react native
 
 By the end of this module developers would be able to understand the basic, vital concepts and sturcture of React such as :
  - Navigate between screens
@@ -18,3 +18,5 @@ As of version 5 of react navigation(latest stable), the **stack navigator** is a
 
 ### Tab Navigation
 Just as in the stack navigator, the tab navigator also returns same object as the stack
+
+
