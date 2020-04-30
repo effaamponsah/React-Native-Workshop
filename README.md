@@ -22,7 +22,7 @@ Please install the following programs or dependencies to ensure a smooth usage w
 | -------------                                         |:-------------:    |
 | Intro to modern javascript for react developers       | [Notes](notes/Intro.md) |
 | Intro to React                                        | [Notes](notes/React-basics.md)      | 
-| Essential  react native                               |       | 
+| Essential  react native                               | [Notes](notes/React-basics.md)      | 
 | Navigation in react-native                            |       | 
 | State management with mobx                            |       | 
 | Testing                                               |       | 
