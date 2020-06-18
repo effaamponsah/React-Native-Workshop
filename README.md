@@ -41,4 +41,4 @@ Feedbacks will be highly appreciated. Kindly drop either of the instructors an e
 
 
 ## UI Guide
-![UI](../images/UI.jpg)
+![UI](images/UI.jpg)
