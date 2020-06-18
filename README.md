@@ -38,3 +38,7 @@ Feedbacks will be highly appreciated. Kindly drop either of the instructors an e
 - [Dennis Effa Amponsah](mailto:dennis.effa@turntabl.io)
 
 - [Isaac Agyen](mailto:isaac.agyen@turntabl.io)
+
+
+## UI Guide
+![UI](../images/UI.jpg)
